@@ -6,7 +6,7 @@
 <h4>Use the table below to test most of the features</h4>
 
 <hr />
-<p>Set up the cleaning options and click the <span style="background-color: #4485b8; color: #fff; display: inline-block; padding: 2px 8px; font-weight: bold; border-radius: 5px;">Clean</span> button, try the <strong>Tag manager</strong>, or experiment with the <strong>Find and replace tool</strong>.</p>
+<p>ed ut perspiciatis unde omnis iste natus <span style="background-color: #4485b8; color: #fff; display: inline-block; padding: 2px 8px; font-weight: bold; border-radius: 5px;">Github</span> button, try the <strong>Tag manager</strong>, or experiment with the <strong>Find and replace tool</strong>.</p>
 <p><em>You can always access this demonstration text clicking the <strong>DEMO</strong> menu item.</em></p>
 <hr />
 <p>&copy; International Rice Research Institute</p>
