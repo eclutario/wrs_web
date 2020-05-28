@@ -1,7 +1,7 @@
 # wrs_web
 <!-- ######## This is a comment, visible only in the source editor  ######## -->
 <h1 style="color: #4485b8;">IRRI World Rice Statistics - External (a demo site hosted in Github)</h1>
-<p><strong>Lorem Ipsum</strong><span>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.</span></p>
+<p><strong>Lorem Ipsum</strong><span>&nbsp;Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione.</span></p>
 <h4></h4>
 <h4>Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis</h4>
 
