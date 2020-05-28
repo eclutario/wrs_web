@@ -5,6 +5,11 @@
 <h4></h4>
 <h4>Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis</h4>
 
+<p><span style="background-color: #4485b8; color: #fff; display: inline-block; padding: 2px 8px; font-weight: bold; border-radius: 5px;">Basic Statistics</span></p>
+<p><span style="background-color: #4485b8; color: #fff; display: inline-block; padding: 2px 8px; font-weight: bold; border-radius: 5px;">User Defined Statistics </span></p>
+<p><span style="background-color: #4485b8; color: #fff; display: inline-block; padding: 2px 8px; font-weight: bold; border-radius: 5px;">Other VIsualizations </span></p>
+<p><span style="background-color: #4485b8; color: #fff; display: inline-block; padding: 2px 8px; font-weight: bold; border-radius: 5px;">Export Data </span></p>
+
 <hr />
 <p><b>Sed ut perspiciatis:</b> Unde omnis iste natus <span style="background-color: #4485b8; color: #fff; display: inline-block; padding: 2px 8px; font-weight: bold; border-radius: 5px;">Github</span> natus, omnis iste <strong>Tag manager</strong>, qui ratione voluptatem sequi nesciunt<strong>Uis nostrum exercitationem</strong>.</p>
 <p><em>Reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur <strong>DEMO</strong> omnis itemus.</em></p>
