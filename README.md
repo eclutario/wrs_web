@@ -15,7 +15,8 @@
 </div>
 </div>
 <hr>
-
+<iframe src='https://analytics.irri.org/dashboard/single/?appid=be7da7b9-7d93-41ff-822e-c2b4c9db9a3a&obj=PVNtj&opt=ctxmenu&select=clearall' style='border:none;width:100%;height:100%;'></iframe>
+<hr>
 <p><span style="background-color: #4485b8; color: #fff; display: inline-block; padding: 2px 8px; font-weight: bold; border-radius: 5px;">Basic Statistics</span></p>
 <p><span style="background-color: #4485b8; color: #fff; display: inline-block; padding: 2px 8px; font-weight: bold; border-radius: 5px;">User Defined Statistics </span></p>
 <p><span style="background-color: #4485b8; color: #fff; display: inline-block; padding: 2px 8px; font-weight: bold; border-radius: 5px;">Other VIsualizations </span></p>
