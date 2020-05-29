@@ -8,9 +8,9 @@
 <div class="divTable">
 <div class="divTableBody">
 <div class="divTableRow">
-<div class="divTableCell"><iframe width="250" height="250" style="border: none; width: 100% height: 100%;" src="https://analytics.irri.org/dashboard/single/?appid=be7da7b9-7d93-41ff-822e-c2b4c9db9a3a&amp;obj=cJBuNpn&amp;opt=noanimate%2Cctxmenu&amp;select=clearall"></iframe></div>
-<div class="divTableCell"><iframe width="250" height="250" style="border: none; width: 100% height: 100%;" src="https://analytics.irri.org/dashboard/single/?appid=be7da7b9-7d93-41ff-822e-c2b4c9db9a3a&amp;obj=pyRpE&amp;opt=noanimate%2Cctxmenu&amp;select=clearall"></iframe></div>
-<div class="divTableCell"><iframe width="250" height="250" style="border: none; width: 100% height: 100%;" src="https://analytics.irri.org/dashboard/single/?appid=be7da7b9-7d93-41ff-822e-c2b4c9db9a3a&amp;obj=nwsnDw&amp;opt=noanimate%2Cctxmenu&amp;select=clearall"></iframe></div>
+<div class="divTableCell"><iframe width="250" height="250" style="border: none; width: 30% height: 100%" src="https://analytics.irri.org/dashboard/single/?appid=be7da7b9-7d93-41ff-822e-c2b4c9db9a3a&amp;obj=cJBuNpn&amp;opt=noanimate%2Cctxmenu&amp;select=clearall"></iframe></div>
+<div class="divTableCell"><iframe width="250" height="250" style="border: none; width: 30% height: 100%;" src="https://analytics.irri.org/dashboard/single/?appid=be7da7b9-7d93-41ff-822e-c2b4c9db9a3a&amp;obj=pyRpE&amp;opt=noanimate%2Cctxmenu&amp;select=clearall"></iframe></div>
+<div class="divTableCell"><iframe width="250" height="250" style="border: none; width: 30% height: 100%;" src="https://analytics.irri.org/dashboard/single/?appid=be7da7b9-7d93-41ff-822e-c2b4c9db9a3a&amp;obj=nwsnDw&amp;opt=noanimate%2Cctxmenu&amp;select=clearall"></iframe></div>
 </div>
 </div>
 </div>
