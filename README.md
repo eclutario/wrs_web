@@ -5,18 +5,31 @@
 <h4></h4>
 <h4>Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis</h4>
 
-<div class="divTable">
-<div class="divTableBody">
-<div class="divTableRow">
-<div class="divTableCell"><iframe width="250" height="250" style="border: none; width: 30% height: 100%" src="https://analytics.irri.org/dashboard/single/?appid=be7da7b9-7d93-41ff-822e-c2b4c9db9a3a&amp;obj=cJBuNpn&amp;opt=noanimate%2Cctxmenu&amp;select=clearall"></iframe></div>
-<div class="divTableCell"><iframe width="250" height="250" style="border: none; width: 30% height: 100%;" src="https://analytics.irri.org/dashboard/single/?appid=be7da7b9-7d93-41ff-822e-c2b4c9db9a3a&amp;obj=pyRpE&amp;opt=noanimate%2Cctxmenu&amp;select=clearall"></iframe></div>
-<div class="divTableCell"><iframe width="250" height="250" style="border: none; width: 30% height: 100%;" src="https://analytics.irri.org/dashboard/single/?appid=be7da7b9-7d93-41ff-822e-c2b4c9db9a3a&amp;obj=nwsnDw&amp;opt=noanimate%2Cctxmenu&amp;select=clearall"></iframe></div>
-</div>
-</div>
-</div>
+
 <hr>
 
-<iframe width="600" height="800" style="border: none; width: 100% height: 100%;" src="https://analytics.irri.org/dashboard/single/?appid=be7da7b9-7d93-41ff-822e-c2b4c9db9a3a&amp;obj=PVNtj&amp;opt=noanimate%2Cctxmenu&amp;select=clearall"></iframe>
+<hr>
+
+<iframe src="https://analytics.irri.org/dashboard/single/?appid=aababeb7-328a-456b-896f-8e11134fe3e6&obj=GFmmBLm"
+width="40%" height="300px" frameborder="0" id="display"></iframe>
+
+<iframe src="https://analytics.irri.org/dashboard/single/?appid=aababeb7-328a-456b-896f-8e11134fe3e6&obj=zLBPQ"
+width="40%" height="300px" frameborder="0" id="display"></iframe>
+
+<iframe src="https://analytics.irri.org/dashboard/single/?appid=aababeb7-328a-456b-896f-8e11134fe3e6&obj=rhbpma"
+width="40%" height="300px" frameborder="0" id="display"></iframe>
+
+<iframe src="https://analytics.irri.org/dashboard/single/?appid=aababeb7-328a-456b-896f-8e11134fe3e6&obj=PUMjJt"
+width="40%" height="300px" frameborder="0" id="display"></iframe>
+
+<iframe src="https://analytics.irri.org/dashboard/single/?appid=aababeb7-328a-456b-896f-8e11134fe3e6&obj=ZsKJY"
+width="40%" height="300px" frameborder="0" id="display"></iframe>
+
+<iframe src="https://analytics.irri.org/dashboard/single/?appid=aababeb7-328a-456b-896f-8e11134fe3e6&obj=DQckUj"
+width="40%" height="300px" frameborder="0" id="display"></iframe>
+
+<iframe src="https://analytics.irri.org/dashboard/single/?appid=aababeb7-328a-456b-896f-8e11134fe3e6&obj=ypXCcm"
+width="40%" height="300px" frameborder="0" id="display"></iframe>
 
 
 <hr>
