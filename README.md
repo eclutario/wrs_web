@@ -11,6 +11,10 @@
 <hr>
 <iframe src="https://analytics.irri.org/dashboard/single/?appid=aababeb7-328a-456b-896f-8e11134fe3e6&obj=pfdfNz"
 width="40%" height="300px" frameborder="0" id="display"></iframe>
+<iframe src="https://analytics.irri.org/dashboard/single/?appid=aababeb7-328a-456b-896f-8e11134fe3e6&obj=UwsX"
+width="40%" height="300px" frameborder="0" id="display"></iframe>
+
+
 
 <iframe src="https://analytics.irri.org/dashboard/single/?appid=aababeb7-328a-456b-896f-8e11134fe3e6&obj=GFmmBLm"
 width="40%" height="300px" frameborder="0" id="display"></iframe>
